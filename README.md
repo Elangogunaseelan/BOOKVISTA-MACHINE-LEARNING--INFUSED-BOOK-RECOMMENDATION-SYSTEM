@@ -1,0 +1,2 @@
+# BOOKVISTA-MACHINE-LEARNING--INFUSED-BOOK-RECOMMENDATION-SYSTEM
+The Book Recommendation System using K-Nearest Neighbors (KNN) algorithm in Machine Learning is a project aimed at developing an intelligent system that can recommend books to users based on their preferences and similarities with other books. The project leverages the power of the KNN algorithm to make accurate and personalized recommendations.
